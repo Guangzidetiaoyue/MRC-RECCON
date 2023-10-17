@@ -1,0 +1,1122 @@
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 163/1080 = 15.09%
+Partial Match: 306/1080 = 28.33%
+LCS F1 Score = 35.34%
+SQuAD F1 Score = 35.21%
+No Match: 611/1080 = 56.57%
+
+Negative Samples:
+Inv F1 Score = 91.75%
+
+All Samples:
+LCS F1 Score = 84.63%
+SQuAD F1 Score = 84.62%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 125/1080 = 11.57%
+Partial Match: 117/1080 = 10.83%
+LCS F1 Score = 19.65%
+SQuAD F1 Score = 19.55%
+No Match: 838/1080 = 77.59%
+
+Negative Samples:
+Inv F1 Score = 92.96%
+
+All Samples:
+LCS F1 Score = 86.86%
+SQuAD F1 Score = 86.85%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 125/1080 = 11.57%
+Partial Match: 117/1080 = 10.83%
+LCS F1 Score = 19.65%
+SQuAD F1 Score = 19.55%
+No Match: 838/1080 = 77.59%
+
+Negative Samples:
+Inv F1 Score = 92.96%
+
+All Samples:
+LCS F1 Score = 86.86%
+SQuAD F1 Score = 86.85%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 249/1080 = 23.06%
+Partial Match: 386/1080 = 35.74%
+LCS F1 Score = 49.67%
+SQuAD F1 Score = 49.55%
+No Match: 445/1080 = 41.2%
+
+Negative Samples:
+Inv F1 Score = 87.2%
+
+All Samples:
+LCS F1 Score = 77.67%
+SQuAD F1 Score = 77.66%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 254/1080 = 23.52%
+Partial Match: 395/1080 = 36.57%
+LCS F1 Score = 48.63%
+SQuAD F1 Score = 48.52%
+No Match: 431/1080 = 39.91%
+
+Negative Samples:
+Inv F1 Score = 89.27%
+
+All Samples:
+LCS F1 Score = 80.63%
+SQuAD F1 Score = 80.62%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 190/1080 = 17.59%
+Partial Match: 328/1080 = 30.37%
+LCS F1 Score = 38.98%
+SQuAD F1 Score = 38.75%
+No Match: 562/1080 = 52.04%
+
+Negative Samples:
+Inv F1 Score = 88.51%
+
+All Samples:
+LCS F1 Score = 79.47%
+SQuAD F1 Score = 79.45%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 283/1080 = 26.2%
+Partial Match: 421/1080 = 38.98%
+LCS F1 Score = 53.0%
+SQuAD F1 Score = 52.81%
+No Match: 376/1080 = 34.81%
+
+Negative Samples:
+Inv F1 Score = 87.57%
+
+All Samples:
+LCS F1 Score = 78.09%
+SQuAD F1 Score = 78.07%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 283/1080 = 26.2%
+Partial Match: 421/1080 = 38.98%
+LCS F1 Score = 53.0%
+SQuAD F1 Score = 52.81%
+No Match: 376/1080 = 34.81%
+
+Negative Samples:
+Inv F1 Score = 87.57%
+
+All Samples:
+LCS F1 Score = 78.09%
+SQuAD F1 Score = 78.07%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 193/1080 = 17.87%
+Partial Match: 334/1080 = 30.93%
+LCS F1 Score = 39.52%
+SQuAD F1 Score = 39.32%
+No Match: 553/1080 = 51.2%
+
+Negative Samples:
+Inv F1 Score = 90.76%
+
+All Samples:
+LCS F1 Score = 82.99%
+SQuAD F1 Score = 82.98%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 203/1080 = 18.8%
+Partial Match: 309/1080 = 28.61%
+LCS F1 Score = 39.14%
+SQuAD F1 Score = 38.98%
+No Match: 568/1080 = 52.59%
+
+Negative Samples:
+Inv F1 Score = 91.39%
+
+All Samples:
+LCS F1 Score = 84.08%
+SQuAD F1 Score = 84.07%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 170/1080 = 15.74%
+Partial Match: 264/1080 = 24.44%
+LCS F1 Score = 32.93%
+SQuAD F1 Score = 32.75%
+No Match: 646/1080 = 59.81%
+
+Negative Samples:
+Inv F1 Score = 92.58%
+
+All Samples:
+LCS F1 Score = 86.04%
+SQuAD F1 Score = 86.03%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 146/1080 = 13.52%
+Partial Match: 237/1080 = 21.94%
+LCS F1 Score = 29.48%
+SQuAD F1 Score = 29.43%
+No Match: 697/1080 = 64.54%
+
+Negative Samples:
+Inv F1 Score = 92.23%
+
+All Samples:
+LCS F1 Score = 85.5%
+SQuAD F1 Score = 85.5%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 146/1080 = 13.52%
+Partial Match: 237/1080 = 21.94%
+LCS F1 Score = 29.48%
+SQuAD F1 Score = 29.43%
+No Match: 697/1080 = 64.54%
+
+Negative Samples:
+Inv F1 Score = 92.23%
+
+All Samples:
+LCS F1 Score = 85.5%
+SQuAD F1 Score = 85.5%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 216/1080 = 20.0%
+Partial Match: 302/1080 = 27.96%
+LCS F1 Score = 40.0%
+SQuAD F1 Score = 39.83%
+No Match: 562/1080 = 52.04%
+
+Negative Samples:
+Inv F1 Score = 88.53%
+
+All Samples:
+LCS F1 Score = 79.58%
+SQuAD F1 Score = 79.57%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 231/1080 = 21.39%
+Partial Match: 335/1080 = 31.02%
+LCS F1 Score = 43.49%
+SQuAD F1 Score = 43.21%
+No Match: 514/1080 = 47.59%
+
+Negative Samples:
+Inv F1 Score = 89.94%
+
+All Samples:
+LCS F1 Score = 81.78%
+SQuAD F1 Score = 81.76%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 171/1080 = 15.83%
+Partial Match: 305/1080 = 28.24%
+LCS F1 Score = 35.25%
+SQuAD F1 Score = 34.99%
+No Match: 604/1080 = 55.93%
+
+Negative Samples:
+Inv F1 Score = 90.58%
+
+All Samples:
+LCS F1 Score = 82.67%
+SQuAD F1 Score = 82.65%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 209/1080 = 19.35%
+Partial Match: 274/1080 = 25.37%
+LCS F1 Score = 37.15%
+SQuAD F1 Score = 37.07%
+No Match: 597/1080 = 55.28%
+
+Negative Samples:
+Inv F1 Score = 92.86%
+
+All Samples:
+LCS F1 Score = 86.53%
+SQuAD F1 Score = 86.53%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 209/1080 = 19.35%
+Partial Match: 274/1080 = 25.37%
+LCS F1 Score = 37.15%
+SQuAD F1 Score = 37.07%
+No Match: 597/1080 = 55.28%
+
+Negative Samples:
+Inv F1 Score = 92.86%
+
+All Samples:
+LCS F1 Score = 86.53%
+SQuAD F1 Score = 86.53%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 195/1080 = 18.06%
+Partial Match: 340/1080 = 31.48%
+LCS F1 Score = 40.35%
+SQuAD F1 Score = 40.14%
+No Match: 545/1080 = 50.46%
+
+Negative Samples:
+Inv F1 Score = 90.73%
+
+All Samples:
+LCS F1 Score = 82.96%
+SQuAD F1 Score = 82.94%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 214/1080 = 19.81%
+Partial Match: 348/1080 = 32.22%
+LCS F1 Score = 43.63%
+SQuAD F1 Score = 43.44%
+No Match: 518/1080 = 47.96%
+
+Negative Samples:
+Inv F1 Score = 89.38%
+
+All Samples:
+LCS F1 Score = 80.93%
+SQuAD F1 Score = 80.91%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 201/1080 = 18.61%
+Partial Match: 266/1080 = 24.63%
+LCS F1 Score = 36.52%
+SQuAD F1 Score = 36.31%
+No Match: 613/1080 = 56.76%
+
+Negative Samples:
+Inv F1 Score = 90.8%
+
+All Samples:
+LCS F1 Score = 83.19%
+SQuAD F1 Score = 83.17%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 218/1080 = 20.19%
+Partial Match: 344/1080 = 31.85%
+LCS F1 Score = 43.38%
+SQuAD F1 Score = 43.24%
+No Match: 518/1080 = 47.96%
+
+Negative Samples:
+Inv F1 Score = 92.93%
+
+All Samples:
+LCS F1 Score = 86.63%
+SQuAD F1 Score = 86.62%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 218/1080 = 20.19%
+Partial Match: 344/1080 = 31.85%
+LCS F1 Score = 43.38%
+SQuAD F1 Score = 43.24%
+No Match: 518/1080 = 47.96%
+
+Negative Samples:
+Inv F1 Score = 92.93%
+
+All Samples:
+LCS F1 Score = 86.63%
+SQuAD F1 Score = 86.62%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 167/1080 = 15.46%
+Partial Match: 317/1080 = 29.35%
+LCS F1 Score = 35.38%
+SQuAD F1 Score = 35.26%
+No Match: 596/1080 = 55.19%
+
+Negative Samples:
+Inv F1 Score = 89.5%
+
+All Samples:
+LCS F1 Score = 80.92%
+SQuAD F1 Score = 80.91%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 235/1080 = 21.76%
+Partial Match: 335/1080 = 31.02%
+LCS F1 Score = 44.37%
+SQuAD F1 Score = 44.29%
+No Match: 510/1080 = 47.22%
+
+Negative Samples:
+Inv F1 Score = 88.33%
+
+All Samples:
+LCS F1 Score = 79.33%
+SQuAD F1 Score = 79.32%
+----------------------------------------
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='span')
+
+Postive Samples:
+Exact Match: 321/1080 = 29.72%
+Partial Match: 324/1080 = 30.0%
+LCS F1 Score = 52.53%
+SQuAD F1 Score = 52.17%
+No Match: 435/1080 = 40.28%
+
+Negative Samples:
+Inv F1 Score = 81.03%
+
+All Samples:
+LCS F1 Score = 69.14%
+SQuAD F1 Score = 69.11%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='span')
+
+Postive Samples:
+Exact Match: 320/1080 = 29.63%
+Partial Match: 324/1080 = 30.0%
+LCS F1 Score = 51.78%
+SQuAD F1 Score = 51.58%
+No Match: 436/1080 = 40.37%
+
+Negative Samples:
+Inv F1 Score = 85.83%
+
+All Samples:
+LCS F1 Score = 75.48%
+SQuAD F1 Score = 75.46%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='span')
+
+Postive Samples:
+Exact Match: 262/1080 = 24.26%
+Partial Match: 287/1080 = 26.57%
+LCS F1 Score = 44.53%
+SQuAD F1 Score = 44.33%
+No Match: 531/1080 = 49.17%
+
+Negative Samples:
+Inv F1 Score = 89.06%
+
+All Samples:
+LCS F1 Score = 80.6%
+SQuAD F1 Score = 80.59%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='span')
+
+Postive Samples:
+Exact Match: 289/1080 = 26.76%
+Partial Match: 326/1080 = 30.19%
+LCS F1 Score = 48.91%
+SQuAD F1 Score = 48.65%
+No Match: 465/1080 = 43.06%
+
+Negative Samples:
+Inv F1 Score = 88.84%
+
+All Samples:
+LCS F1 Score = 80.22%
+SQuAD F1 Score = 80.2%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='span')
+
+Postive Samples:
+Exact Match: 305/1080 = 28.24%
+Partial Match: 326/1080 = 30.19%
+LCS F1 Score = 50.85%
+SQuAD F1 Score = 50.61%
+No Match: 449/1080 = 41.57%
+
+Negative Samples:
+Inv F1 Score = 85.53%
+
+All Samples:
+LCS F1 Score = 75.34%
+SQuAD F1 Score = 75.32%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 2/1080 = 0.19%
+Partial Match: 174/1080 = 16.11%
+LCS F1 Score = 7.58%
+SQuAD F1 Score = 7.52%
+No Match: 904/1080 = 83.7%
+
+Negative Samples:
+Inv F1 Score = 0%
+
+All Samples:
+LCS F1 Score = 0.73%
+SQuAD F1 Score = 0.73%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 8/1080 = 0.74%
+Partial Match: 381/1080 = 35.28%
+LCS F1 Score = 14.69%
+SQuAD F1 Score = 12.7%
+No Match: 691/1080 = 63.98%
+
+Negative Samples:
+Inv F1 Score = 0%
+
+All Samples:
+LCS F1 Score = 3.16%
+SQuAD F1 Score = 2.99%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 6/1080 = 0.56%
+Partial Match: 291/1080 = 26.94%
+LCS F1 Score = 12.7%
+SQuAD F1 Score = 12.58%
+No Match: 783/1080 = 72.5%
+
+Negative Samples:
+Inv F1 Score = 0%
+
+All Samples:
+LCS F1 Score = 1.11%
+SQuAD F1 Score = 1.1%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 0/1080 = 0.0%
+Partial Match: 225/1080 = 20.83%
+LCS F1 Score = 9.82%
+SQuAD F1 Score = 9.64%
+No Match: 855/1080 = 79.17%
+
+Negative Samples:
+Inv F1 Score = 0%
+
+All Samples:
+LCS F1 Score = 1.51%
+SQuAD F1 Score = 1.49%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 0/1080 = 0.0%
+Partial Match: 166/1080 = 15.37%
+LCS F1 Score = 6.7%
+SQuAD F1 Score = 6.39%
+No Match: 914/1080 = 84.63%
+
+Negative Samples:
+Inv F1 Score = 0%
+
+All Samples:
+LCS F1 Score = 4.22%
+SQuAD F1 Score = 4.19%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 210/1080 = 19.44%
+Partial Match: 350/1080 = 32.41%
+LCS F1 Score = 42.11%
+SQuAD F1 Score = 41.86%
+No Match: 520/1080 = 48.15%
+
+Negative Samples:
+Inv F1 Score = 90.48%
+
+All Samples:
+LCS F1 Score = 82.56%
+SQuAD F1 Score = 82.54%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 156/1080 = 14.44%
+Partial Match: 278/1080 = 25.74%
+LCS F1 Score = 32.1%
+SQuAD F1 Score = 31.96%
+No Match: 646/1080 = 59.81%
+
+Negative Samples:
+Inv F1 Score = 90.43%
+
+All Samples:
+LCS F1 Score = 82.44%
+SQuAD F1 Score = 82.43%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 197/1080 = 18.24%
+Partial Match: 294/1080 = 27.22%
+LCS F1 Score = 37.91%
+SQuAD F1 Score = 37.7%
+No Match: 589/1080 = 54.54%
+
+Negative Samples:
+Inv F1 Score = 89.13%
+
+All Samples:
+LCS F1 Score = 80.5%
+SQuAD F1 Score = 80.49%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 205/1080 = 18.98%
+Partial Match: 311/1080 = 28.8%
+LCS F1 Score = 38.64%
+SQuAD F1 Score = 38.54%
+No Match: 564/1080 = 52.22%
+
+Negative Samples:
+Inv F1 Score = 89.1%
+
+All Samples:
+LCS F1 Score = 80.36%
+SQuAD F1 Score = 80.35%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 187/1080 = 17.31%
+Partial Match: 295/1080 = 27.31%
+LCS F1 Score = 36.56%
+SQuAD F1 Score = 36.41%
+No Match: 598/1080 = 55.37%
+
+Negative Samples:
+Inv F1 Score = 91.46%
+
+All Samples:
+LCS F1 Score = 84.17%
+SQuAD F1 Score = 84.16%
+----------------------------------------
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 118/1080 = 10.93%
+Partial Match: 228/1080 = 21.11%
+LCS F1 Score = 25.59%
+SQuAD F1 Score = 25.52%
+No Match: 734/1080 = 67.96%
+
+Negative Samples:
+Inv F1 Score = 91.46%
+
+All Samples:
+LCS F1 Score = 84.14%
+SQuAD F1 Score = 84.13%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 205/1080 = 18.98%
+Partial Match: 283/1080 = 26.2%
+LCS F1 Score = 38.07%
+SQuAD F1 Score = 37.83%
+No Match: 592/1080 = 54.81%
+
+Negative Samples:
+Inv F1 Score = 90.55%
+
+All Samples:
+LCS F1 Score = 82.8%
+SQuAD F1 Score = 82.77%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 154/1080 = 14.26%
+Partial Match: 497/1080 = 46.02%
+LCS F1 Score = 35.16%
+SQuAD F1 Score = 30.57%
+No Match: 429/1080 = 39.72%
+
+Negative Samples:
+Inv F1 Score = 35.36%
+
+All Samples:
+LCS F1 Score = 23.41%
+SQuAD F1 Score = 23.01%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 165/1080 = 15.28%
+Partial Match: 253/1080 = 23.43%
+LCS F1 Score = 31.08%
+SQuAD F1 Score = 30.93%
+No Match: 662/1080 = 61.3%
+
+Negative Samples:
+Inv F1 Score = 92.28%
+
+All Samples:
+LCS F1 Score = 85.49%
+SQuAD F1 Score = 85.47%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 143/1080 = 13.24%
+Partial Match: 265/1080 = 24.54%
+LCS F1 Score = 30.95%
+SQuAD F1 Score = 30.78%
+No Match: 672/1080 = 62.22%
+
+Negative Samples:
+Inv F1 Score = 92.35%
+
+All Samples:
+LCS F1 Score = 85.66%
+SQuAD F1 Score = 85.65%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 243/1080 = 22.5%
+Partial Match: 307/1080 = 28.43%
+LCS F1 Score = 43.28%
+SQuAD F1 Score = 43.07%
+No Match: 530/1080 = 49.07%
+
+Negative Samples:
+Inv F1 Score = 89.41%
+
+All Samples:
+LCS F1 Score = 81.04%
+SQuAD F1 Score = 81.02%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 188/1080 = 17.41%
+Partial Match: 274/1080 = 25.37%
+LCS F1 Score = 35.37%
+SQuAD F1 Score = 35.23%
+No Match: 618/1080 = 57.22%
+
+Negative Samples:
+Inv F1 Score = 91.73%
+
+All Samples:
+LCS F1 Score = 84.64%
+SQuAD F1 Score = 84.63%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 196/1080 = 18.15%
+Partial Match: 264/1080 = 24.44%
+LCS F1 Score = 35.01%
+SQuAD F1 Score = 34.87%
+No Match: 620/1080 = 57.41%
+
+Negative Samples:
+Inv F1 Score = 89.9%
+
+All Samples:
+LCS F1 Score = 81.67%
+SQuAD F1 Score = 81.66%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 274/1080 = 25.37%
+Partial Match: 325/1080 = 30.09%
+LCS F1 Score = 47.29%
+SQuAD F1 Score = 47.1%
+No Match: 481/1080 = 44.54%
+
+Negative Samples:
+Inv F1 Score = 89.4%
+
+All Samples:
+LCS F1 Score = 81.05%
+SQuAD F1 Score = 81.03%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 163/1080 = 15.09%
+Partial Match: 314/1080 = 29.07%
+LCS F1 Score = 34.49%
+SQuAD F1 Score = 34.35%
+No Match: 603/1080 = 55.83%
+
+Negative Samples:
+Inv F1 Score = 91.92%
+
+All Samples:
+LCS F1 Score = 84.78%
+SQuAD F1 Score = 84.77%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 213/1080 = 19.72%
+Partial Match: 312/1080 = 28.89%
+LCS F1 Score = 40.32%
+SQuAD F1 Score = 40.18%
+No Match: 555/1080 = 51.39%
+
+Negative Samples:
+Inv F1 Score = 89.66%
+
+All Samples:
+LCS F1 Score = 81.33%
+SQuAD F1 Score = 81.32%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 185/1080 = 17.13%
+Partial Match: 322/1080 = 29.81%
+LCS F1 Score = 38.2%
+SQuAD F1 Score = 38.03%
+No Match: 573/1080 = 53.06%
+
+Negative Samples:
+Inv F1 Score = 89.24%
+
+All Samples:
+LCS F1 Score = 80.6%
+SQuAD F1 Score = 80.59%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 213/1080 = 19.72%
+Partial Match: 300/1080 = 27.78%
+LCS F1 Score = 39.67%
+SQuAD F1 Score = 39.52%
+No Match: 567/1080 = 52.5%
+
+Negative Samples:
+Inv F1 Score = 90.0%
+
+All Samples:
+LCS F1 Score = 81.89%
+SQuAD F1 Score = 81.87%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 167/1080 = 15.46%
+Partial Match: 320/1080 = 29.63%
+LCS F1 Score = 36.68%
+SQuAD F1 Score = 36.49%
+No Match: 593/1080 = 54.91%
+
+Negative Samples:
+Inv F1 Score = 90.7%
+
+All Samples:
+LCS F1 Score = 82.92%
+SQuAD F1 Score = 82.9%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 196/1080 = 18.15%
+Partial Match: 350/1080 = 32.41%
+LCS F1 Score = 38.72%
+SQuAD F1 Score = 38.6%
+No Match: 534/1080 = 49.44%
+
+Negative Samples:
+Inv F1 Score = 90.35%
+
+All Samples:
+LCS F1 Score = 82.14%
+SQuAD F1 Score = 82.13%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 187/1080 = 17.31%
+Partial Match: 273/1080 = 25.28%
+LCS F1 Score = 34.95%
+SQuAD F1 Score = 34.8%
+No Match: 620/1080 = 57.41%
+
+Negative Samples:
+Inv F1 Score = 92.7%
+
+All Samples:
+LCS F1 Score = 86.24%
+SQuAD F1 Score = 86.22%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 212/1080 = 19.63%
+Partial Match: 369/1080 = 34.17%
+LCS F1 Score = 43.7%
+SQuAD F1 Score = 43.48%
+No Match: 499/1080 = 46.2%
+
+Negative Samples:
+Inv F1 Score = 88.46%
+
+All Samples:
+LCS F1 Score = 79.4%
+SQuAD F1 Score = 79.38%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 189/1080 = 17.5%
+Partial Match: 317/1080 = 29.35%
+LCS F1 Score = 37.47%
+SQuAD F1 Score = 37.31%
+No Match: 574/1080 = 53.15%
+
+Negative Samples:
+Inv F1 Score = 90.17%
+
+All Samples:
+LCS F1 Score = 82.01%
+SQuAD F1 Score = 81.99%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 189/1080 = 17.5%
+Partial Match: 284/1080 = 26.3%
+LCS F1 Score = 36.31%
+SQuAD F1 Score = 36.15%
+No Match: 607/1080 = 56.2%
+
+Negative Samples:
+Inv F1 Score = 90.48%
+
+All Samples:
+LCS F1 Score = 82.63%
+SQuAD F1 Score = 82.62%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 191/1080 = 17.69%
+Partial Match: 331/1080 = 30.65%
+LCS F1 Score = 37.87%
+SQuAD F1 Score = 37.64%
+No Match: 558/1080 = 51.67%
+
+Negative Samples:
+Inv F1 Score = 90.63%
+
+All Samples:
+LCS F1 Score = 82.67%
+SQuAD F1 Score = 82.65%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 184/1080 = 17.04%
+Partial Match: 265/1080 = 24.54%
+LCS F1 Score = 33.95%
+SQuAD F1 Score = 33.78%
+No Match: 631/1080 = 58.43%
+
+Negative Samples:
+Inv F1 Score = 89.13%
+
+All Samples:
+LCS F1 Score = 80.43%
+SQuAD F1 Score = 80.42%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 171/1080 = 15.83%
+Partial Match: 320/1080 = 29.63%
+LCS F1 Score = 36.58%
+SQuAD F1 Score = 36.4%
+No Match: 589/1080 = 54.54%
+
+Negative Samples:
+Inv F1 Score = 89.83%
+
+All Samples:
+LCS F1 Score = 81.49%
+SQuAD F1 Score = 81.48%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 165/1080 = 15.28%
+Partial Match: 269/1080 = 24.91%
+LCS F1 Score = 33.35%
+SQuAD F1 Score = 33.27%
+No Match: 646/1080 = 59.81%
+
+Negative Samples:
+Inv F1 Score = 89.32%
+
+All Samples:
+LCS F1 Score = 80.78%
+SQuAD F1 Score = 80.77%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 226/1080 = 20.93%
+Partial Match: 322/1080 = 29.81%
+LCS F1 Score = 42.46%
+SQuAD F1 Score = 42.21%
+No Match: 532/1080 = 49.26%
+
+Negative Samples:
+Inv F1 Score = 90.99%
+
+All Samples:
+LCS F1 Score = 83.48%
+SQuAD F1 Score = 83.46%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 208/1080 = 19.26%
+Partial Match: 357/1080 = 33.06%
+LCS F1 Score = 42.21%
+SQuAD F1 Score = 42.15%
+No Match: 515/1080 = 47.69%
+
+Negative Samples:
+Inv F1 Score = 90.23%
+
+All Samples:
+LCS F1 Score = 82.13%
+SQuAD F1 Score = 82.13%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=0, model='rob')
+
+Postive Samples:
+Exact Match: 304/1080 = 28.15%
+Partial Match: 366/1080 = 33.89%
+LCS F1 Score = 52.61%
+SQuAD F1 Score = 52.37%
+No Match: 410/1080 = 37.96%
+
+Negative Samples:
+Inv F1 Score = 85.41%
+
+All Samples:
+LCS F1 Score = 74.68%
+SQuAD F1 Score = 74.66%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=1, model='rob')
+
+Postive Samples:
+Exact Match: 199/1080 = 18.43%
+Partial Match: 284/1080 = 26.3%
+LCS F1 Score = 36.88%
+SQuAD F1 Score = 36.66%
+No Match: 597/1080 = 55.28%
+
+Negative Samples:
+Inv F1 Score = 91.1%
+
+All Samples:
+LCS F1 Score = 83.6%
+SQuAD F1 Score = 83.58%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=2, model='rob')
+
+Postive Samples:
+Exact Match: 186/1080 = 17.22%
+Partial Match: 342/1080 = 31.67%
+LCS F1 Score = 38.59%
+SQuAD F1 Score = 38.39%
+No Match: 552/1080 = 51.11%
+
+Negative Samples:
+Inv F1 Score = 88.95%
+
+All Samples:
+LCS F1 Score = 80.05%
+SQuAD F1 Score = 80.04%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=3, model='rob')
+
+Postive Samples:
+Exact Match: 199/1080 = 18.43%
+Partial Match: 310/1080 = 28.7%
+LCS F1 Score = 38.44%
+SQuAD F1 Score = 38.27%
+No Match: 571/1080 = 52.87%
+
+Negative Samples:
+Inv F1 Score = 89.51%
+
+All Samples:
+LCS F1 Score = 81.04%
+SQuAD F1 Score = 81.02%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=4, model='rob')
+
+Postive Samples:
+Exact Match: 214/1080 = 19.81%
+Partial Match: 347/1080 = 32.13%
+LCS F1 Score = 41.46%
+SQuAD F1 Score = 41.33%
+No Match: 519/1080 = 48.06%
+
+Negative Samples:
+Inv F1 Score = 90.82%
+
+All Samples:
+LCS F1 Score = 83.03%
+SQuAD F1 Score = 83.02%
+----------------------------------------

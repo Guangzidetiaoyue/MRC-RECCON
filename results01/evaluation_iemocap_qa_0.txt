@@ -1,0 +1,200 @@
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-1, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=0, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=1, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='span')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=2, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=-3, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=3, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=4, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=5, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=6, manual_seed=4, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=0, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=1, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=2, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=3, model='rob')
+
+Namespace(batch_size=4, context=True, cuda=0, dataset='iemocap', fold=1, loss_r=7, manual_seed=4, model='rob')
+
