@@ -1,0 +1,32 @@
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+
+Postive Samples:
+Exact Match: 333/1894 = 17.58%
+Partial Match: 605/1894 = 31.94%
+LCS F1 Score = 37.86%
+SQuAD F1 Score = 37.87%
+No Match: 956/1894 = 50.48%
+
+Negative Samples:
+Inv F1 Score = 82.43%
+
+All Samples:
+LCS F1 Score = 68.36%
+SQuAD F1 Score = 68.36%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+
+Postive Samples:
+Exact Match: 78/1894 = 4.12%
+Partial Match: 175/1894 = 9.24%
+LCS F1 Score = 9.75%
+SQuAD F1 Score = 9.81%
+No Match: 1641/1894 = 86.64%
+
+Negative Samples:
+Inv F1 Score = 85.03%
+
+All Samples:
+LCS F1 Score = 73.93%
+SQuAD F1 Score = 73.95%
+----------------------------------------

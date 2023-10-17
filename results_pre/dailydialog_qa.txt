@@ -1,0 +1,133 @@
+Namespace(batch_size=8, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+#Sample Roberta NO initialization
+Postive Samples:
+Exact Match: 78/1894 = 4.12%
+Partial Match: 175/1894 = 9.24%
+LCS F1 Score = 9.75%
+SQuAD F1 Score = 9.81%
+No Match: 1641/1894 = 86.64%
+
+Negative Samples
+Inv F1 Score = 85.03%
+----------------------------------------
+Namespace(batch_size=8, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+#Sample Roberta NO initialization
+Postive Samples:
+Exact Match: 80/1894 = 4.22%
+Partial Match: 174/1894 = 9.19%
+LCS F1 Score = 9.88%
+SQuAD F1 Score = 9.91%
+No Match: 1640/1894 = 86.59%
+
+Negative Samples
+Inv F1 Score = 85.17%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+#Sample Roberta SQuAD initialization
+
+Postive Samples:
+Exact Match: 541/1894 = 28.56%
+Partial Match: 629/1894 = 33.21%
+LCS F1 Score = 50.77%
+SQuAD F1 Score = 51.01%
+No Match: 724/1894 = 38.23%
+
+Negative Samples
+Inv F1 Score = 89.25%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 421/1894 = 22.23%
+Partial Match: 554/1894 = 29.25%
+LCS F1 Score = 40.43%
+SQuAD F1 Score = 40.25%
+No Match: 919/1894 = 48.52%
+
+Negative Samples
+Inv F1 Score = 84.94%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 387/1894 = 20.43%
+Partial Match: 522/1894 = 27.56%
+LCS F1 Score = 38.05%
+SQuAD F1 Score = 38.35%
+No Match: 985/1894 = 52.01%
+
+Negative Samples
+Inv F1 Score = 84.75%
+----------------------------------------
+Namespace(batch_size=2, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 444/1894 = 23.44%
+Partial Match: 493/1894 = 26.03%
+LCS F1 Score = 41.28%
+SQuAD F1 Score = 41.41%
+No Match: 957/1894 = 50.53%
+
+Negative Samples
+Inv F1 Score = 90.0%
+----------------------------------------
+Namespace(batch_size=2, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 569/1894 = 30.04%
+Partial Match: 651/1894 = 34.37%
+LCS F1 Score = 53.73%
+SQuAD F1 Score = 54.03%
+No Match: 674/1894 = 35.59%
+
+Negative Samples
+Inv F1 Score = 89.27%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 604/1894 = 31.89%
+Partial Match: 736/1894 = 38.86%
+LCS F1 Score = 58.0%
+SQuAD F1 Score = 58.36%
+No Match: 554/1894 = 29.25%
+
+Negative Samples
+Inv F1 Score = 89.34%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 92/1894 = 4.86%
+Partial Match: 880/1894 = 46.46%
+LCS F1 Score = 20.61%
+SQuAD F1 Score = 17.2%
+No Match: 922/1894 = 48.68%
+
+Negative Samples
+Inv F1 Score = 81.33%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 554/1894 = 29.25%
+Partial Match: 688/1894 = 36.33%
+LCS F1 Score = 53.57%
+SQuAD F1 Score = 53.65%
+No Match: 652/1894 = 34.42%
+
+Negative Samples
+Inv F1 Score = 89.67%
+----------------------------------------
+Namespace(batch_size=4, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+
+Postive Samples:
+Exact Match: 22/1894 = 1.16%
+Partial Match: 828/1894 = 43.72%
+LCS F1 Score = 12.82%
+SQuAD F1 Score = 10.5%
+No Match: 1044/1894 = 55.12%
+
+Negative Samples
+Inv F1 Score = 76.71%
+----------------------------------------

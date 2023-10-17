@@ -1,0 +1,144 @@
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+roberta_qa+gat+att
+Postive Samples:
+Exact Match: 410/1894 = 21.65%
+Partial Match: 566/1894 = 29.88%
+LCS F1 Score = 40.44%
+SQuAD F1 Score = 40.36%
+No Match: 918/1894 = 48.47%
+
+Negative Samples:
+Inv F1 Score = 84.66%
+
+All Samples:
+LCS F1 Score = 72.09%
+SQuAD F1 Score = 72.07%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+roberta_qa+bilstm
+Postive Samples:
+Exact Match: 394/1894 = 20.8%
+Partial Match: 531/1894 = 28.04%
+LCS F1 Score = 38.27%
+SQuAD F1 Score = 38.44%
+No Match: 969/1894 = 51.16%
+
+Negative Samples:
+Inv F1 Score = 83.41%
+
+All Samples:
+LCS F1 Score = 70.35%
+SQuAD F1 Score = 70.39%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+Train batch_size=2
+Postive Samples:
+Exact Match: 512/1894 = 27.03%
+Partial Match: 581/1894 = 30.68%
+LCS F1 Score = 47.2%
+SQuAD F1 Score = 47.47%
+No Match: 801/1894 = 42.29%
+
+Negative Samples:
+Inv F1 Score = 88.1%
+
+All Samples:
+LCS F1 Score = 78.09%
+SQuAD F1 Score = 78.16%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+Train batch_size=2
+Postive Samples:
+Exact Match: 512/1894 = 27.03%
+Partial Match: 581/1894 = 30.68%
+LCS F1 Score = 47.2%
+SQuAD F1 Score = 47.47%
+No Match: 801/1894 = 42.29%
+
+Negative Samples:
+Inv F1 Score = 88.1%
+
+All Samples:
+LCS F1 Score = 78.09%
+SQuAD F1 Score = 78.16%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+Train batch_size=2
+Postive Samples:
+Exact Match: 444/1894 = 23.44%
+Partial Match: 493/1894 = 26.03%
+LCS F1 Score = 41.28%
+SQuAD F1 Score = 41.41%
+No Match: 957/1894 = 50.53%
+
+Negative Samples:
+Inv F1 Score = 90.0%
+
+All Samples:
+LCS F1 Score = 80.95%
+SQuAD F1 Score = 80.98%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+Train batch_size=2 #original
+Postive Samples:
+Exact Match: 569/1894 = 30.04%
+Partial Match: 651/1894 = 34.37%
+LCS F1 Score = 53.73%
+SQuAD F1 Score = 54.03%
+No Match: 674/1894 = 35.59%
+
+Negative Samples:
+Inv F1 Score = 89.27%
+
+All Samples:
+LCS F1 Score = 81.09%
+SQuAD F1 Score = 81.16%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+Train batch_size=16 #only adjust contexts
+Postive Samples:
+Exact Match: 604/1894 = 31.89%
+Partial Match: 736/1894 = 38.86%
+LCS F1 Score = 58.0%
+SQuAD F1 Score = 58.36%
+No Match: 554/1894 = 29.25%
+
+Negative Samples:
+Inv F1 Score = 89.34%
+
+All Samples:
+LCS F1 Score = 79.77%
+SQuAD F1 Score = 79.86%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+Train batch_size=4 GCA-ATT
+Postive Samples:
+Exact Match: 561/1894 = 29.62%
+Partial Match: 691/1894 = 36.48%
+LCS F1 Score = 54.12%
+SQuAD F1 Score = 54.24%
+No Match: 642/1894 = 33.9%
+
+Negative Samples:
+Inv F1 Score = 89.75%
+
+All Samples:
+LCS F1 Score = 80.34%
+SQuAD F1 Score = 80.38%
+----------------------------------------
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+
+Postive Samples:
+Exact Match: 32/1894 = 1.69%
+Partial Match: 829/1894 = 43.77%
+LCS F1 Score = 13.35%
+SQuAD F1 Score = 10.94%
+No Match: 1033/1894 = 54.54%
+
+Negative Samples:
+Inv F1 Score = 75.76%
+
+All Samples:
+LCS F1 Score = 53.42%
+SQuAD F1 Score = 52.78%
+----------------------------------------

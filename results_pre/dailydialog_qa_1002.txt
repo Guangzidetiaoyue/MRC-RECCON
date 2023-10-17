@@ -1,1 +1,12 @@
+Namespace(batch_size=4, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
 
+Postive Samples:
+Exact Match: 328/1894 = 17.32%
+Partial Match: 627/1894 = 33.1%
+LCS F1 Score = 37.67%
+SQuAD F1 Score = 37.66%
+No Match: 939/1894 = 49.58%
+
+Negative Samples
+Inv F1 Score = 82.78%
+----------------------------------------
