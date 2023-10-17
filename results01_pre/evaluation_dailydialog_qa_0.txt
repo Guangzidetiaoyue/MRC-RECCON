@@ -1,0 +1,8 @@
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+
+Namespace(batch_size=16, context=True, cuda=0, dataset='dailydialog', fold=1, model='rob')
+

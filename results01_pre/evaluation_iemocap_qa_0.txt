@@ -1,0 +1,4 @@
+Namespace(batch_size=16, context=True, cuda=0, dataset='iemocap', fold=1, model='rob')
+
+Namespace(batch_size=16, context=True, cuda=0, dataset='iemocap', fold=1, model='rob')
+

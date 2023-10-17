@@ -1,0 +1,12 @@
+Namespace(batch_size=16, context=True, cuda=0, dataset='iemocap', fold=1, model='rob')
+
+              precision    recall  f1-score   support
+
+           0     0.9765    0.9763    0.9764     18891
+           1     0.5946    0.5973    0.5959      1100
+
+    accuracy                         0.9554     19991
+   macro avg     0.7856    0.7868    0.7862     19991
+weighted avg     0.9555    0.9554    0.9555     19991
+
+------------------------------------------------------

@@ -1,0 +1,16 @@
+Namespace(batch_size=16, context=True, cuda=0, dataset='iemocap', fold=1, model='rob')
+
+Postive Samples:
+Exact Match: 126/1080 = 11.67%
+Partial Match: 287/1080 = 26.57%
+LCS F1 Score = 30.73%
+SQuAD F1 Score = 30.56%
+No Match: 667/1080 = 61.76%
+
+Negative Samples:
+Inv F1 Score = 92.0%
+
+All Samples:
+LCS F1 Score = 85.03%
+SQuAD F1 Score = 85.01%
+----------------------------------------

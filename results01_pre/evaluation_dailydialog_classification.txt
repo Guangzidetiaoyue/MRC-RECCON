@@ -1,0 +1,25 @@
+Namespace(batch_size=8, context=True, cuda=0, epochs=4, fold=1, lr=1e-05, model='rob')
+l0*(l1)^(0.5)
+              precision    recall  f1-score   support
+
+           0     0.9168    0.8432    0.8784      5330
+           1     0.6400    0.7846    0.7049      1894
+
+    accuracy                         0.8278      7224
+   macro avg     0.7784    0.8139    0.7917      7224
+weighted avg     0.8442    0.8278    0.8329      7224
+
+------------------------------------------------------
+Namespace(batch_size=8, context=True, cuda=0, epochs=12, fold=1, lr=1e-05, model='rob')
+#r = 2
+#loss =  ((loss_0.pow(r) + loss_1.pow(r))/2).pow(1/r)
+              precision    recall  f1-score   support
+
+           0     0.9224    0.8054    0.8600      5330
+           1     0.5965    0.8094    0.6868      1894
+
+    accuracy                         0.8065      7224
+   macro avg     0.7595    0.8074    0.7734      7224
+weighted avg     0.8370    0.8065    0.8146      7224
+
+------------------------------------------------------
